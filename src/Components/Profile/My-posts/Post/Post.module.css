@@ -1,0 +1,11 @@
+.post {
+    padding-top: 30px;
+}
+
+.postImg {
+    background: url("https://cutt.ly/finWl8A") center center / cover no-repeat;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    margin-top: 30px;
+}
